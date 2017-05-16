@@ -8,3 +8,5 @@ vs版本:2013以上
 （操作说明可以运行程序查看）
 
 主要控件：MenuStrip  DataGridView
+
+主要数据结构：List  Dictionary
